@@ -27,7 +27,7 @@ Clone o projeto
 
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/gioxavier7/servidor-facilita.git
 ```
 
 
@@ -70,7 +70,7 @@ Segue alguns repositórios relacionados
 
 ## Referência 
 
-- [React]
-- [JavaScript]
-- [MySql]
-- [Trello]
+- React
+- JavaScript
+- MySql
+- Trello
